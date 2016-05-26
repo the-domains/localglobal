@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[localglobal]]></title>
+        <description><![CDATA[localglobal]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 26 May 2016 15:53:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p></p>]]></description>
+            <link>undefinedblind-photography-project/index.html</link>
+            <guid isPermaLink="false">0ab2f5aa-193a-42fd-87e9-821ebe86db8c</guid>
+            <pubDate>Thu, 26 May 2016 15:51:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
